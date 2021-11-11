@@ -1,6 +1,11 @@
 .TopNavBar {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    color: gray;
-    align-items: center;
+    color:gray;
+    padding-top: 1%;
+    padding-left: 5%;
     
+    
+}
+.TopNavBar p {
+    border: 8%;
 }
