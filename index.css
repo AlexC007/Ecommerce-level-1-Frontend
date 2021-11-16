@@ -3,9 +3,19 @@
     color:gray;
     padding-top: 1%;
     padding-left: 5%;
+    font-size: 11pt;
+
     
+    }
+.RightSideNav{
+    list-style-type: none;
+    display:inline-flex;
+    justify-content: space-evenly;
+    padding-right: 1%;
+    padding-left: 1%;
     
+
 }
-.TopNavBar p {
-    border: 8%;
+.TopNavBar nav img{
+    padding-right: 3% ;
 }
